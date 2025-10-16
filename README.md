@@ -1,2 +1,2 @@
 # grahamcarman.github.io
-blog
+This is my blog. Next up is to learn about making multiple pages using Jenkins.
